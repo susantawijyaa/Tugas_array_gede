@@ -4,7 +4,7 @@ using namespace std;
 int main () {
     int nilai [7];
     int maks;
-    cout << "masukan 7 angka integer yang akan dijumlahkan: " << endl;
+    cout << "masukan 7 angka integer yang ingin dicari nilai maksnya: " << endl;
     for (int i=0; i < 7; i++) {
         cout << "masukan angka ke " << i+1 << ": ";
         cin >> nilai[i];
